@@ -24,7 +24,7 @@ SPA (Single-Page Application) de Front-End com React.
 
 ### Para executar o projeto na sua máquina
 
-Faça o download do arquivo "CopaFilmesB.zip".
+Faça o download do arquivo "CopaFilmesB.zip" no link: shorturl.at/fRS06
 Execute a descompactação em um diretório.
 Acesse o diretório do projeto.
 
